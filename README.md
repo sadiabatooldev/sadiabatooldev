@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sadia Batool</h1>
 <h3 align="center">A Passionate Full Stack Developer from Pakistan</h3>
-![](https://komarev.com/ghpvc/?username=cycosad&color=fb4362)
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📫 How to reach me **batoolsadia660@gmail.com**
 
