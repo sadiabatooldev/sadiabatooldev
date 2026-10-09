@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full Stack Developer from Pakistan</h3>
 
 
-- 📫 How to reach me **batoolsadia660@gmail.com**
+<center> 📫 How to reach me **batoolsadia660@gmail.com**</center>
 
 
 <h3 align="center">Languages and Tools:</h3>
